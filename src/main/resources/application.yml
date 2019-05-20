@@ -1,0 +1,5 @@
+server:
+  port: 8090
+logging:
+  level:
+    root: debug
